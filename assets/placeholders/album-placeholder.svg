@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000">
+<rect width="900" height="1000" fill="#111"/>
+<circle cx="450" cy="450" r="250" fill="none" stroke="#fff" stroke-width="3"/>
+<circle cx="450" cy="450" r="5" fill="#fff"/>
+<path d="M450 470v210M390 740h120" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+<text x="450" y="90" text-anchor="middle" fill="#fff" font-family="Arial" font-size="30" letter-spacing="8">LOCAL BAND</text>
+<text x="450" y="930" text-anchor="middle" fill="#fff" font-family="Arial" font-size="30" letter-spacing="8">ECHOES WITHIN</text>
+</svg>
